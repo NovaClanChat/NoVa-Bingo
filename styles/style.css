@@ -17,6 +17,14 @@
   list-style-type: none;
 }
 
+table {
+  border-collapse: collapse;
+}
+
+table, th, td {
+  border: 1px solid black;
+}
+
 li {
   /* float: left; */
   border-right: 1px solid #bbb;
